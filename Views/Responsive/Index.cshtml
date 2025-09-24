@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Responsive";
+}
+
+<div class="container py-5">
+    <div class="row g-0 mb-2">
+        <div class="col">
+            <h1 class="display-4">Pakkende titel</h1>
+            <p class="text-muted">Subtiele subtitel</p>
+        </div>
+    </div>
+
+    <!-- Row 1: 2 blue columns (each 50%) -->
+    <div class="row g-0">
+        <div class="col-md-6 col-12">
+            <div class="p-3 bg-primary text-white text-center">25% op desktop, 100% op mobiel</div>
+        </div>
+        <div class="col-md-6 col-12">
+            <div class="p-3 bg-primary text-white text-center">50% op desktop, 100% op mobiel</div>
+        </div>
+    </div>
+
+    <!-- Row 2: Y Y niks Y -->
+    <div class="row g-0">
+        <div class="col-md-6 col-6">
+            <div class="p-3 bg-warning text-center">Altijd 50%</div>
+        </div>
+        <div class="col-md-3 d-none d-md-block"></div>
+        <div class="col-md-3 col-12">
+            <div class="p-3 bg-warning text-center">Altijd 25%, 3 opgeschoven</div>
+        </div>
+    </div>
+
+    <!-- Row 3: G niks niks niks -->
+    <div class="row g-0">
+        <div class="col-md-3 col-12">
+            <div class="p-3 bg-success text-white text-center">Altijd 25% en enige in rij</div>
+        </div>
+        <div class="col-md-3 d-none d-md-block"></div>
+        <div class="col-md-3 d-none d-md-block"></div>
+        <div class="col-md-3 d-none d-md-block"></div>
+    </div>
+
+    <!-- Row 4: G G niks niks -->
+    <div class="row g-0">
+        <div class="col-md-3 col-6">
+            <div class="p-3 bg-success text-white text-center">Ook 25% maar niet bij de vorige rij</div>
+        </div>
+        <div class="col-md-3 col-6">
+            <div class="p-3 bg-success text-white text-center">Ook 25% maar niet bij de vorige rij</div>
+        </div>
+        <div class="col-md-3 d-none d-md-block"></div>
+        <div class="col-md-3 d-none d-md-block"></div>
+    </div>
+</div>
