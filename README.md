@@ -1,6 +1,6 @@
 # 🌐 Bootstrappje
 
-<img width="2880" height="1728" alt="Bootstrappje Screenshot" src="https://github.com/JustAGoofBall/Bootstrappje/assets/26a45016-68c0-4afd-8df0-027f92e4b9a1" />
+<img width="2880" height="1728" alt="Schermafbeelding 2025-09-24 114759" src="https://github.com/user-attachments/assets/862e8d5f-140a-46a7-9bb3-30545b12c77b" />
 
 ## 📚 About
 
