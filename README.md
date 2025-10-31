@@ -11,7 +11,7 @@ The objective: learn Bootstrap and SCSS by recreating an existing webpage as a *
 
 - Responsive layout using **Bootstrap**  
 - Structured architecture following the **MVC pattern**  
-- Primary styling in **SCSS**  
+- Primary styling in **CSS**  
 - Semantic and accessible **HTML** markup  
 - Faithful 1:1 visual replication of the target design  
 
